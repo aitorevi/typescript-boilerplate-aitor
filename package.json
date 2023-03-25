@@ -44,9 +44,9 @@
   "author": "Aitor Reviriego Amor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/franciscomesa/typescript-boilerplate/issues"
+    "url": "https://github.com/aitorevi/typescript-boilerplate-aitor/issues"
   },
-  "homepage": "https://github.com/franciscomesa/typescript-boilerplate#readme",
+  "homepage": "https://github.com/aitorevi/typescript-boilerplate-aitor#readme",
   "dependencies": {
     "@types/node": "^18.15.9",
     "typescript": "^5.0.2"
