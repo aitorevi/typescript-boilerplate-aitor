@@ -1,5 +1,6 @@
 # typescript-boilerplate-aitor
-### Fuente: https://github.com/franciscomesa/typescript-boilerplate
+### Source of the template: https://github.com/franciscomesa/typescript-boilerplate
+### Source of the template realization process: https://leanmind.es/es/blog/como-configurar-un-boilerplate-con-typescript
 Typescript and Node boilerplate template developer ready 🚀 to get started quickly with all basic tools included and configured.
 
 
