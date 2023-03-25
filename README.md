@@ -10,7 +10,7 @@ Typescript and Node boilerplate template developer ready 🚀 to get started qui
 - Type definitions for Node.js and Jest
 - Preconfigured [scripts](#scripts-configured) for common operations
 - Documentation generator [Typedoc](http://typedoc.org/)
-- Linting with [ESLint 7](https://eslint.org/)
+- Linting with [ESLint 8](https://eslint.org/)
 - [.editorconfig](https://editorconfig.org/) settings for consistent file format
 - CHANGELOG generator [auto-changelog](https://github.com/cookpete/auto-changelog)
 - 🔖 Available under the MIT license.
